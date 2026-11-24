@@ -1,4 +1,5 @@
 # Merge-Conflict-Demo
 Project Description:
 This project is developed using Python.
-Developer: bob
+Developer: bob and charlie
+
